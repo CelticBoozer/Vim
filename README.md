@@ -10,6 +10,8 @@ This config use for: c (gcc), c++ (gcc), python code.
 4. Restart your Vim.
 5. Enjoy.
 
-F6 to run python file.
-F5 to run IPython in vim.
 F3 to NerdTree.
+F5 to compile c,cpp.
+F6 to run IPython in vim.
+F7 to run python file.
+F9 to run binary file.
