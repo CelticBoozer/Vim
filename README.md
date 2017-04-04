@@ -3,6 +3,7 @@
 This config use for: c (gcc), c++ (gcc), python code.
 
 ###### Manual.
+<h1>hue</h1>
 
 1. Download this file in your home directory.
 2. Run Vim.
