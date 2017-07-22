@@ -1,4 +1,4 @@
-" <F5> to compile c,cpp
+" <F5> to compile c, cpp
 " <F6> to run IPython
 " <F7> to run Python
 " <F9> to run binary
