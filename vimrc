@@ -1,8 +1,8 @@
-" <F5> to compile c, cpp
+" <F5> to compile c,cpp
 " <F6> to run IPython
 " <F7> to run Python
 " <F9> to run binary
- 
+
 "Auto reload .vimrc when changed, this avoids reopening vim
 
 autocmd! bufwritepost .vimrc source %
@@ -37,11 +37,11 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'godlygeek/tabular'
 Plugin 'MatlabFilesEdition'
-Plugin 'rosenfeld/conque-term'      	
-Plugin 'tpope/vim-surround'	   	
-Plugin 'klen/python-mode'	        
-Plugin 'davidhalter/jedi-vim' 		
-Plugin 'mitsuhiko/vim-jinja'		
+Plugin 'rosenfeld/conque-term'
+Plugin 'tpope/vim-surround'
+Plugin 'klen/python-mode'
+Plugin 'davidhalter/jedi-vim'
+Plugin 'mitsuhiko/vim-jinja'
 Plugin 'mitsuhiko/vim-python-combined'
 
 call vundle#end()
@@ -61,7 +61,7 @@ filetype plugin indent on
 "===============================General settings================================="
 "================================================================================"
 
- 
+
 "Set UTF-8 encoding
 
 set enc=utf-8
